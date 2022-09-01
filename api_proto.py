@@ -33,8 +33,8 @@ with open('data/bangalore_wards.json') as f:
 # od_map = load_od_data()
 
 @app.get("/get_od_data")
-def get_od_data():
-    return parse_data()
+def get_od_data(id: str = '1'):
+    return parse_data(id)
 
 def get_time_val(df):
     val = df.values
@@ -46,7 +46,6 @@ def get_time_val(df):
 @app.get("/get_od_data_json")
 def get_od_data_json(id: str = '1'):
     df_src = df[(df['sourceid'] == int(id)) & (df['month'] == 1)]
-    print(df_src)
     ward = copy.deepcopy(ward_data)
     features = []
     for f in ward['features']:
@@ -65,20 +64,18 @@ def get_od_data_json(id: str = '1'):
 
 
 
-def parse_data():
-   
+def parse_data(id: str):
+    df_src = df[(df['sourceid'] == int(id)) & (df['month'] == 1)]
     res_obj = {
         'origin_id': int(df.iloc[0, 0])
     }
 
     dest = []
 
-    for _, r in df.iterrows():
+    for _, r in df_src.iterrows():
         dest.append({
-            'dest_id': r['Destination Movement ID'],
-            'mean_travel_sec': r['Mean Travel Time (Seconds)'],
-            'min_travel_sec': r['Range - Lower Bound Travel Time (Seconds)'],
-            'max_travel_sec': r['Range - Upper Bound Travel Time (Seconds)']
+            'dest_id': int(r['dstid']),
+            'mean_travel_sec': r['mean_travel_time']
         })
     
     res_obj['destinations'] = dest
