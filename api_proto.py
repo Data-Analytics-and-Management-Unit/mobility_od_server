@@ -32,7 +32,7 @@ with open('data/bangalore_wards.json') as f:
 
 # od_map = load_od_data()
 
-@app.get("/get_od_data")
+@app.get("/od_api/get_od_data")
 def get_od_data(id: str = '1'):
     return parse_data(id)
 
@@ -43,7 +43,7 @@ def get_time_val(df):
         return 0
     return val[0]
 
-@app.get("/get_od_data_json")
+@app.get("/od_api/get_od_data_json")
 def get_od_data_json(id: str = '1'):
     df_src = df[(df['sourceid'] == int(id)) & (df['month'] == 1)]
     ward = copy.deepcopy(ward_data)
@@ -67,16 +67,15 @@ def get_od_data_json(id: str = '1'):
 def parse_data(id: str):
     df_src = df[(df['sourceid'] == int(id)) & (df['month'] == 1)]
     res_obj = {
-        'origin_id': int(df.iloc[0, 0])
+        'origin_id': int(id)
     }
 
-    dest = []
+    dest = {}
 
     for _, r in df_src.iterrows():
-        dest.append({
-            'dest_id': int(r['dstid']),
-            'mean_travel_sec': r['mean_travel_time']
-        })
+        dest[int(r['dstid'])] = {
+            'mean_travel_time': r['mean_travel_time']
+        }
     
     res_obj['destinations'] = dest
 
