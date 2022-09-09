@@ -1,0 +1,2784 @@
+{
+	"type": "FeatureCollection",
+	"name": "bangalore_ward_centroid",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "2",
+				"WARD_NAME": "Chowdeswari Ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.580422096400255,
+					13.121709439271237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "3",
+				"WARD_NAME": "Atturu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.560037744289176,
+					13.102804857674844
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "4",
+				"WARD_NAME": "Yelahanka Satellite Town"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.583925431448918,
+					13.090986666316077
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "51",
+				"WARD_NAME": "Vijnanapura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.669565307111398,
+					13.006063274995148
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "53",
+				"WARD_NAME": "Basavanapura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.715456469702872,
+					13.016847038927146
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "54",
+				"WARD_NAME": "Hudi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.705493324068783,
+					13.022375518483475
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "55",
+				"WARD_NAME": "Devasandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.689121590174409,
+					13.001797361446643
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "56",
+				"WARD_NAME": "A Narayanapura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.672582665646743,
+					12.994474418115772
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "81",
+				"WARD_NAME": "Vijnana Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.681770130821818,
+					12.978492979731811
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "87",
+				"WARD_NAME": "HAL Airport"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.671501523196994,
+					12.956536568341516
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "10",
+				"WARD_NAME": "Dodda Bommasandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.558692495504189,
+					13.056595129617259
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "11",
+				"WARD_NAME": "Kuvempu Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.541869353110172,
+					13.072079813930818
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "5",
+				"WARD_NAME": "Jakkuru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.623313958030181,
+					13.096250291836832
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "6",
+				"WARD_NAME": "Thanisandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.622410742306201,
+					13.056524861512258
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "7",
+				"WARD_NAME": "Byatarayanapura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.59737098448629,
+					13.061070613844429
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "8",
+				"WARD_NAME": "Kodigehalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.579087766894233,
+					13.053845599625605
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "9",
+				"WARD_NAME": "Vidyaranyapura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.569454027311338,
+					13.077092408765754
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "130",
+				"WARD_NAME": "Ullalu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.484618185646994,
+					12.946716152846653
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "159",
+				"WARD_NAME": "Kengeri"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.477527604131382,
+					12.915068540760833
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "40",
+				"WARD_NAME": "Dodda Bidarakallu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.484543103891042,
+					13.018075878154068
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "72",
+				"WARD_NAME": "Herohalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.487158555286783,
+					12.982807267207486
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "16",
+				"WARD_NAME": "Jalahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.539338788915799,
+					13.046443712826793
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "160",
+				"WARD_NAME": "Rajarajeshwari Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.522141507080065,
+					12.918757264288976
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "17",
+				"WARD_NAME": "J P Park"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.552423747285047,
+					13.036628321780253
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "37",
+				"WARD_NAME": "Yeshwanthpura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.553856766597178,
+					13.026029019740442
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "38",
+				"WARD_NAME": "HMT Ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.531705449466671,
+					13.031904738117367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "42",
+				"WARD_NAME": "Lakshmi Devi Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.532471767127007,
+					13.020602738602154
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "69",
+				"WARD_NAME": "Laggere"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.523899989291479,
+					13.007687348130244
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "73",
+				"WARD_NAME": "Kottegepalya"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.514090403700251,
+					12.982456452416832
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "12",
+				"WARD_NAME": "Shettihalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.51940919535167,
+					13.067996693728448
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "13",
+				"WARD_NAME": "Mallasandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.515125916115835,
+					13.054436363239789
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "14",
+				"WARD_NAME": "Bagalakunte"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.500280009614542,
+					13.058892494472415
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "15",
+				"WARD_NAME": "T Dasarahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.514735767424824,
+					13.045358027481042
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "39",
+				"WARD_NAME": "Chokkasandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.506306698655195,
+					13.038050413243829
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "41",
+				"WARD_NAME": "Peenya Industrial Area"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.508611273716056,
+					13.020901800135684
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "70",
+				"WARD_NAME": "Rajagopal Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.512249243348876,
+					13.006199612163753
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "71",
+				"WARD_NAME": "Hegganahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.500975424751545,
+					13.001005544800998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "102",
+				"WARD_NAME": "Vrisabhavathi Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.525879030991305,
+					12.989772416948426
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "43",
+				"WARD_NAME": "Nandini Layout"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.534141609754755,
+					13.013449936919312
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "44",
+				"WARD_NAME": "Marappana Palya"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.546242152819417,
+					13.017480358948223
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "67",
+				"WARD_NAME": "Nagapura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.5481305116203,
+					13.004126159016623
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "68",
+				"WARD_NAME": "Mahalakshimpuram"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.540042597169119,
+					13.007349658779052
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "74",
+				"WARD_NAME": "Shakthi Ganapathi Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.53158398010207,
+					12.995048024381802
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "75",
+				"WARD_NAME": "Shankar Matt"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.534407769415083,
+					12.999984276910556
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "35",
+				"WARD_NAME": "Aramane Nagara"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.572345,
+					13.020849
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "36",
+				"WARD_NAME": "Mattikere"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.561033852367345,
+					13.032589581407162
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "45",
+				"WARD_NAME": "Malleswaram"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.561673203916484,
+					13.014073542406896
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "64",
+				"WARD_NAME": "Rajamahal Guttahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.579060193238021,
+					13.001372136455183
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "65",
+				"WARD_NAME": "Kadu Malleshwar Ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.568491099383692,
+					13.002385424200009
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "66",
+				"WARD_NAME": "Subramanya Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.557108979985927,
+					13.007040134896702
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "76",
+				"WARD_NAME": "Gayithri Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.560513773590131,
+					12.997436098101897
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "18",
+				"WARD_NAME": "Radhakrishna Temple Ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.570571687882705,
+					13.038305157072264
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "19",
+				"WARD_NAME": "Sanjaya Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.577799702855017,
+					13.039301332268598
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "20",
+				"WARD_NAME": "Ganga Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.586360450724314,
+					13.032554915179878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "21",
+				"WARD_NAME": "Hebbala"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.59301874645972,
+					13.034054466852574
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "22",
+				"WARD_NAME": "Vishwanath Nagenahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.60374057657549,
+					13.035174485360082
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "33",
+				"WARD_NAME": "Manorayanapalya"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.597305297000972,
+					13.026742700191383
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "34",
+				"WARD_NAME": "Gangenahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.5888153919676,
+					13.017774891712197
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "46",
+				"WARD_NAME": "Jayachamarajendra Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.595975762653694,
+					13.017171620643941
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "31",
+				"WARD_NAME": "Kushal Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.615017407318817,
+					13.016273306464123
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "32",
+				"WARD_NAME": "Kaval Bairasandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.608569001498012,
+					13.026350566469402
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "47",
+				"WARD_NAME": "Devara Jeevanahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.602752504999813,
+					13.015453144143827
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "48",
+				"WARD_NAME": "Muneshwara Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.610978548696465,
+					13.014160024426571
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "60",
+				"WARD_NAME": "Sagayarapuram"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.616865938339856,
+					13.005577118913829
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "61",
+				"WARD_NAME": "S K Garden"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.607057982081429,
+					13.005327640891648
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "78",
+				"WARD_NAME": "Pulikeshinagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.611855849323447,
+					12.995343533100575
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "23",
+				"WARD_NAME": "Nagavara"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.616695836601551,
+					13.031509059325346
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "24",
+				"WARD_NAME": "HBR Layout"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.630127366073438,
+					13.032020129267414
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "27",
+				"WARD_NAME": "Banasavadi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.648927369405399,
+					13.014698963495343
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "28",
+				"WARD_NAME": "Kammanahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.635992732677806,
+					13.00837369638869
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "29",
+				"WARD_NAME": "Kacharkanahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.634010729161517,
+					13.019416779959162
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "30",
+				"WARD_NAME": "Kadugondanahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.619864061429013,
+					13.015543518563314
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "49",
+				"WARD_NAME": "Lingarajapura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.626971855715723,
+					13.00994594457004
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "59",
+				"WARD_NAME": "Maruthi Seva Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.630080607739018,
+					12.999921090172299
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "113",
+				"WARD_NAME": "Konena Agrahara"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.652204729509691,
+					12.95577974885278
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "50",
+				"WARD_NAME": "Benniganahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.651704290785105,
+					12.999501678017605
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "57",
+				"WARD_NAME": "C V Raman Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.665202868368681,
+					12.983949698530129
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "58",
+				"WARD_NAME": "New Tippasandara"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.656791058967229,
+					12.976503657480173
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "79",
+				"WARD_NAME": "Sarvagna Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.631039487577468,
+					12.989170023362645
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "80",
+				"WARD_NAME": "Hoysala Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.638782981557341,
+					12.978456100916633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "88",
+				"WARD_NAME": "Jeevanbhima Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.650032844812216,
+					12.964651647107731
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "110",
+				"WARD_NAME": "Sampangiram Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.595372028600579,
+					12.976794573454645
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "62",
+				"WARD_NAME": "Ramaswamy Palya"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.599076634620701,
+					13.005976019416151
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "63",
+				"WARD_NAME": "Jayamahal"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.599931008522233,
+					12.99510671404647
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "90",
+				"WARD_NAME": "Halsoor"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.619822129964646,
+					12.979704320441188
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "91",
+				"WARD_NAME": "Bharathi Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.611040354643535,
+					12.987014411754807
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "92",
+				"WARD_NAME": "Shivaji Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.605872844459569,
+					12.988701672381143
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "93",
+				"WARD_NAME": "Vasanth Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.585804695461107,
+					12.989131114822932
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "111",
+				"WARD_NAME": "Shantala Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.606464291221471,
+					12.969866656930428
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "112",
+				"WARD_NAME": "Domlur"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.63804041381303,
+					12.963361489068271
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "114",
+				"WARD_NAME": "Agaram"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.639046685232245,
+					12.944263406599227
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "115",
+				"WARD_NAME": "Vannarpet"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.61894093384015,
+					12.954209280442338
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "116",
+				"WARD_NAME": "Nilasandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.614644140262683,
+					12.951159949255576
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "117",
+				"WARD_NAME": "Shanthi Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.603705046564841,
+					12.95732366060923
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "89",
+				"WARD_NAME": "Jogupalya"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.632593965118446,
+					12.973724531979338
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "109",
+				"WARD_NAME": "Chickpete"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.577097896567111,
+					12.970687745781699
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "120",
+				"WARD_NAME": "Cottonpete"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.566287160074978,
+					12.970358818723472
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "121",
+				"WARD_NAME": "Binnipete"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.559096897426869,
+					12.971798422448099
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "77",
+				"WARD_NAME": "Dattatreya Temple"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.57413800817389,
+					12.996555465585422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "94",
+				"WARD_NAME": "Gandhinagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.575665015921643,
+					12.981564813492527
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "95",
+				"WARD_NAME": "Subhash Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.56862746451759,
+					12.982666816385231
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "96",
+				"WARD_NAME": "Okalipuram"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.56381662557294,
+					12.98278373499347
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "100",
+				"WARD_NAME": "Basaveshwara Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.542130124049606,
+					12.990808428198001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "101",
+				"WARD_NAME": "Kamakshipalya"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.533870697150903,
+					12.986797554609078
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "107",
+				"WARD_NAME": "Shivanagara"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.549520057688525,
+					12.988503604083263
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "108",
+				"WARD_NAME": "Sriramamandir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.555890866016924,
+					12.983767311908702
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "97",
+				"WARD_NAME": "Dayananda Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.56419467523169,
+					12.991097050403061
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "98",
+				"WARD_NAME": "Prakash Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.558221221229601,
+					12.993094233316453
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "99",
+				"WARD_NAME": "Rajaji Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.550192580005273,
+					12.994598845925506
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "103",
+				"WARD_NAME": "Kaveripura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.52489788178579,
+					12.979742273730913
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "104",
+				"WARD_NAME": "Govindaraja Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.536682476477637,
+					12.977116415838461
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "105",
+				"WARD_NAME": "Agrahara Dasarahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.541535394732904,
+					12.980497389916595
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "106",
+				"WARD_NAME": "Dr. Raj Kumar Ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.548475351732748,
+					12.979654170941792
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "125",
+				"WARD_NAME": "Marenahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.532843653976954,
+					12.971889257272272
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "126",
+				"WARD_NAME": "Maruthi Mandir ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.528464370896586,
+					12.966710550299871
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "127",
+				"WARD_NAME": "Mudalapalya"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.521640592099075,
+					12.969239223506762
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "128",
+				"WARD_NAME": "Nagarabhavi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.519366144892317,
+					12.955842723310411
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "131",
+				"WARD_NAME": "Nayandahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.519960734900351,
+					12.945140875461195
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "122",
+				"WARD_NAME": "Kempapura Agrahara"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.555479379719685,
+					12.972312621975927
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "123",
+				"WARD_NAME": "Vijayanagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.547043812145333,
+					12.972092552785336
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "124",
+				"WARD_NAME": "Hosahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.543812022102955,
+					12.96766913989388
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "132",
+				"WARD_NAME": "Attiguppe"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.529308923577801,
+					12.958111703822615
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "133",
+				"WARD_NAME": "Hampi Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.537614587860944,
+					12.959949178692254
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "134",
+				"WARD_NAME": "Bapuji Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.543221423787898,
+					12.957976109904537
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "157",
+				"WARD_NAME": "Gali Anjenaya Temple ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.54465602932855,
+					12.950159251676205
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "158",
+				"WARD_NAME": "Deepanjali Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.536232635631549,
+					12.944540434614954
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "135",
+				"WARD_NAME": "Padarayanapura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.548812046037241,
+					12.963702528987289
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "136",
+				"WARD_NAME": "Jagajivanaramnagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.551941461848173,
+					12.960544744580517
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "137",
+				"WARD_NAME": "Rayapuram"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.556378187998803,
+					12.964988081286878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "138",
+				"WARD_NAME": "Chalavadipalya"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.564448240057757,
+					12.964579332237122
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "139",
+				"WARD_NAME": "K R Market"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.571800472038802,
+					12.963968066683384
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "140",
+				"WARD_NAME": "Chamrajapet"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.563775616817708,
+					12.958184012546882
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "141",
+				"WARD_NAME": "Azad Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.554027305404432,
+					12.954717129690142
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "118",
+				"WARD_NAME": "Sudham Nagara"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.586192716129972,
+					12.959334912746993
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "119",
+				"WARD_NAME": "Dharmaraya Swamy Temple"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.58051058514944,
+					12.963133328473848
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "142",
+				"WARD_NAME": "Sunkenahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.567874401546078,
+					12.948691496354668
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "143",
+				"WARD_NAME": "Vishveshwara Puram"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.579883056498218,
+					12.950486372485448
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "144",
+				"WARD_NAME": "Siddapura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.593016443888047,
+					12.943844649131275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "145",
+				"WARD_NAME": "Hombegowda Nagara"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.59487402199089,
+					12.95059577935328
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "153",
+				"WARD_NAME": "Jayanagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.589419669925562,
+					12.937633696815711
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "155",
+				"WARD_NAME": "Hanumanth Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.559883873850751,
+					12.947121506879347
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "156",
+				"WARD_NAME": "Srinagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.553494369137368,
+					12.94532752784864
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "154",
+				"WARD_NAME": "Basavanagudi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.568733417587268,
+					12.937375367741264
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "162",
+				"WARD_NAME": "Girinagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.545575482815593,
+					12.937624012769977
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "163",
+				"WARD_NAME": "Katriguppe"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.552223284818353,
+					12.931641464262221
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "164",
+				"WARD_NAME": "Vidyapeeta ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.559476246897447,
+					12.934200447078565
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "161",
+				"WARD_NAME": "Hosakerehalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.539505823842177,
+					12.927796939700313
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "165",
+				"WARD_NAME": "Ganesh Mandir ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.56404585041048,
+					12.924803151392933
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "166",
+				"WARD_NAME": "Karisandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.574016937615113,
+					12.924352415359865
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "167",
+				"WARD_NAME": "Yediyur"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.576080494754819,
+					12.934251736338785
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "180",
+				"WARD_NAME": "Banashankari Temple ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.569832326594252,
+					12.913351521674828
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "181",
+				"WARD_NAME": "Kumaraswamy Layout"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.561857688690708,
+					12.90699020214131
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "182",
+				"WARD_NAME": "Padmanabha Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.556057201875305,
+					12.9135013167368
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "146",
+				"WARD_NAME": "Lakkasandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.604804359787479,
+					12.941109032802073
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "147",
+				"WARD_NAME": "Adugodi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.61307911763366,
+					12.94323887258439
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "148",
+				"WARD_NAME": "Ejipura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.627033622286788,
+					12.942315902543113
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "151",
+				"WARD_NAME": "Koramangala"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.624649445816473,
+					12.931340391612466
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "152",
+				"WARD_NAME": "Suddagunte Palya"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.608214711426086,
+					12.929971352262699
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "178",
+				"WARD_NAME": "Sarakki"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.582949769437079,
+					12.907940297229841
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "173",
+				"WARD_NAME": "Jakkasandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.630988698163577,
+					12.920590963688975
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "176",
+				"WARD_NAME": "BTM Layout"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.609345282482835,
+					12.911837718930649
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "168",
+				"WARD_NAME": "Pattabhiram Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.587545429600482,
+					12.924545002038535
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "169",
+				"WARD_NAME": "Byrasandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.588940367906318,
+					12.931597841197661
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "179",
+				"WARD_NAME": "Shakambari Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.579774725752046,
+					12.917088179231817
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "149",
+				"WARD_NAME": "Varthuru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.733759,
+					12.939351
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "150",
+				"WARD_NAME": "Bellanduru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.68020859120314,
+					12.922874179719914
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "82",
+				"WARD_NAME": "Garudachar Playa"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.717282834106499,
+					12.985900640499562
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "83",
+				"WARD_NAME": "Kadugodi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.757908898528754,
+					12.990687730700005
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "84",
+				"WARD_NAME": "Hagadur"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.748364753047326,
+					12.966070203212613
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "85",
+				"WARD_NAME": "Dodda Nekkundi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.707823694631415,
+					12.968182838927474
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "174",
+				"WARD_NAME": "HSR Layout"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.646425880312478,
+					12.913717864804283
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "175",
+				"WARD_NAME": "Bommanahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.621211766626999,
+					12.900741123671823
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "186",
+				"WARD_NAME": "Jaraganahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.577488056297398,
+					12.900420895465915
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "187",
+				"WARD_NAME": "Puttenahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.59060304829822,
+					12.897317751167751
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "188",
+				"WARD_NAME": "Bilekhalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.610158971037464,
+					12.899156672895767
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "189",
+				"WARD_NAME": "Hongasandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.627517169605653,
+					12.896768887226132
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "190",
+				"WARD_NAME": "Mangammanapalya"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.641823078273347,
+					12.896166738393795
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "191",
+				"WARD_NAME": "Singasandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.657655341432815,
+					12.881166073351846
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "193",
+				"WARD_NAME": "Arakere"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.602883734142694,
+					12.879219922182711
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "184",
+				"WARD_NAME": "Uttarahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.537080945440906,
+					12.900264410108006
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "185",
+				"WARD_NAME": "Yelchenahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.567014060376053,
+					12.900228672718187
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "192",
+				"WARD_NAME": "Begur"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.622069676830293,
+					12.864999660603493
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "194",
+				"WARD_NAME": "Gottigere"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.582132444673945,
+					12.860591267930998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "195",
+				"WARD_NAME": "Konankunte"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.579901447479315,
+					12.885774834891093
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "196",
+				"WARD_NAME": "Anjanapura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.563285689730904,
+					12.859587676126116
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "1",
+				"WARD_NAME": "Kempegowda Ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.599713501479897,
+					13.11618836539432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "52",
+				"WARD_NAME": "K R Puram"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.698444070918555,
+					13.017798417023457
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "129",
+				"WARD_NAME": "Jnana Bharathi ward"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.501787988860201,
+					12.959305790470472
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "170",
+				"WARD_NAME": "Jayanagar East"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.598639764811153,
+					12.921106386403931
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "171",
+				"WARD_NAME": "Gurappanapalya"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.604615158966013,
+					12.922866408918834
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "183",
+				"WARD_NAME": "Chikkalsandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.548407400656885,
+					12.921684797647179
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "197",
+				"WARD_NAME": "Vasanthpura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.556846028241083,
+					12.891421939405729
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "177",
+				"WARD_NAME": "J P Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.594506774658797,
+					12.910881763699653
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "172",
+				"WARD_NAME": "Madivala"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.614418395945421,
+					12.920018230235895
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "26",
+				"WARD_NAME": "Ramamurthy Nagar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.676538661771858,
+					13.033613130797196
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "25",
+				"WARD_NAME": "Horamavu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.653270798888201,
+					13.04456133766057
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "86",
+				"WARD_NAME": "Marathahalli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.69149523523825,
+					12.950743055497496
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"WARD_NO": "198",
+				"WARD_NAME": "Hemmigepura"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.505012969373936,
+					12.891903341537668
+				]
+			}
+		}
+	]
+}

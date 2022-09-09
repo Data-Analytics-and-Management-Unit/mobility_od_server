@@ -55,7 +55,8 @@ def get_od_data_json(id: str = '1'):
 
         f['properties'] = {
             'mean_travel_sec': get_time_val(df_dest['mean_travel_time']),
-            'id': m_id
+            'id': m_id,
+            'name': f['properties']['WARD_NAME']
         }
         features.append(f)
     ward['features'] = features
